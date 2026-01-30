@@ -7,6 +7,8 @@
 - [Key Insights](#key-insights)
 ### Project Overview
 This project analyzes the Global Superstore dataset using Tableau to uncover insights into sales performance, profitability, returns, and customer segments across different markets and time periods. The project demonstrates skills in data preparation, calculated fields, advanced visualizations, filters, and dashboard design using Tableau.
+<img width="1249" height="759" alt="Global Supertore Dashboard (1)" src="https://github.com/user-attachments/assets/c02e0091-fa98-4086-aa4c-7e4100867ecd" />
+
 ### Objectives
 - To prepare and transform raw data for analysis using joins and calculated fields.
 - To analyze sales, profit, and returns across different markets and categories.
